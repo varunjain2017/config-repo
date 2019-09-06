@@ -1,4 +1,4 @@
-example.property: "I AM IN THE AMAZON WORLD"
+example.property: "I AM IN THE GOOGLE"
 spring.jpa.show-sql: "true"
 spring.database.driverClassName: "com.mysql.jdbc.Driver"
 spring.datasource.url: "jdbc:mysql://localhost:3307/eagle_eye"
